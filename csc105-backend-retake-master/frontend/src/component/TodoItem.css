@@ -1,0 +1,13 @@
+.todoitem {
+  padding: 15px;
+  width: 60vw;
+  font-size: large;
+  display: flex;
+  justify-content: space-between;
+}
+.isFinish {
+  background-color: greenyellow;
+}
+.isNotFinish {
+  background-color: bisque;
+}

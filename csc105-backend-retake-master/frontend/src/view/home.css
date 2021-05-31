@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  align-items: center;
+  flex-flow: column;
+  width: 100vw;
+  gap: 20px;
+}
+.title {
+  padding: 1rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
